@@ -1,13 +1,13 @@
 # AI 工具箱 🧰
 
-> 精选 **100 个 AI 工具**，11 大分类：聊天助手、编程、图像、视频、写作、办公、搜索、设计、音频、开发平台与智能体。持续更新，只收录确认过官方网址与可用性的工具。
+> 精选 **101 个 AI 工具**，11 大分类：聊天助手、编程、图像、视频、写作、办公、搜索、设计、音频、开发平台与智能体。持续更新，只收录确认过官方网址与可用性的工具。
 
 **在线版** 👉 [aisurf.cc/ai-tools](https://aisurf.cc/ai-tools/) —— 支持即时搜索过滤、分类锚点跳转；标注「实测」的工具附带本站完整上手教程（从注册到跑通全流程）。
 
 ## 目录
 
 - [AI 聊天助手（14）](#ai-聊天助手)
-- [AI 编程（15）](#ai-编程)
+- [AI 编程（16）](#ai-编程)
 - [AI 图像（15）](#ai-图像)
 - [AI 视频（8）](#ai-视频)
 - [AI 写作（8）](#ai-写作)
@@ -41,7 +41,7 @@
 | [Groq](https://groq.com/) | 以推理速度著称，秒出长答案 |  |
 | [Duck.ai](https://duck.ai/) | DuckDuckGo 出品，免费免登录的隐私向聊天 |  |
 
-## AI 编程（15）
+## AI 编程（16）
 
 > 写代码、改 Bug、跑 Agent
 
@@ -62,6 +62,7 @@
 | [Augment Code](https://augmentcode.com/) | 专为大型代码库设计的 AI 编程工具 |  |
 | [JetBrains AI](https://www.jetbrains.com/ai/) | JetBrains 全家桶的原生 AI 助手 |  |
 | [Roo Code](https://roocode.com/) | 开源的 VS Code 编程 Agent 扩展 |  |
+| [agent-qa](https://vostride.com) | 自然语言驱动的 Web、Android、iOS QA 智能体，具备 memidex 持久记忆与验证门控的自我改进 | CLI / MCP |
 
 ## AI 图像（15）
 
