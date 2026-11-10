@@ -105,6 +105,9 @@ categories:
       - name: Roo Code
         url: https://roocode.com/
         desc: 开源的 VS Code 编程 Agent 扩展
+      - name: agent-qa
+        url: https://vostride.com
+        desc: 自然语言驱动的 Web、Android、iOS QA 智能体，具备 memidex 持久记忆与验证门控的自我改进
 
   - id: image
     name: AI 图像
