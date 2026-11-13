@@ -1,12 +1,12 @@
 # AI 工具箱 🧰
 
-> 精选 **100 个 AI 工具**，11 大分类：聊天助手、编程、图像、视频、写作、办公、搜索、设计、音频、开发平台与智能体。持续更新，只收录确认过官方网址与可用性的工具。
+> 精选 **101 个 AI 工具**，11 大分类：聊天助手、编程、图像、视频、写作、办公、搜索、设计、音频、开发平台与智能体。持续更新，只收录确认过官方网址与可用性的工具。
 
 **在线版** 👉 [aisurf.cc/ai-tools](https://aisurf.cc/ai-tools/) —— 支持即时搜索过滤、分类锚点跳转；标注「实测」的工具附带本站完整上手教程（从注册到跑通全流程）。
 
 ## 目录
 
-- [AI 聊天助手（14）](#ai-聊天助手)
+- [AI 聊天助手（15）](#ai-聊天助手)
 - [AI 编程（15）](#ai-编程)
 - [AI 图像（15）](#ai-图像)
 - [AI 视频（8）](#ai-视频)
@@ -20,7 +20,7 @@
 
 ---
 
-## AI 聊天助手（14）
+## AI 聊天助手（15）
 
 > 日常问答与深度研究的主力模型
 
@@ -28,8 +28,9 @@
 | --- | --- | --- |
 | [DeepSeek](https://chat.deepseek.com/) | 幻方量化推出的开源大模型，便宜、能打、多模态已补齐 | 🔥 [✅ 实测教程](https://aisurf.cc/deepseek-vision-guide/) |
 | [ChatGPT](https://chatgpt.com/) | OpenAI 出品，生态最全的 AI 对话产品 | 🔥 [✅ 实测教程](https://aisurf.cc/chatgpt-vpn-guide/) |
+| [GPT-6 Astra](https://chatgpt.com/) | OpenAI 2026 旗舰模型，Computer Use 自主用电脑，Plus 用户可用 | 🔥 [✅ 实测教程](https://aisurf.cc/gpt-6-astra/) |
 | [Claude](https://claude.ai/) | Anthropic 出品，长文本与代码能力的第一梯队 |  |
-| [Gemini](https://gemini.google.com/) | Google 出品，多模态与超长上下文见长 |  |
+| [Gemini](https://gemini.google.com/) | Google 出品，多模态与超长上下文见长 | [✅ 实测教程](https://aisurf.cc/gemini-4-argon/) |
 | [Kimi](https://kimi.moonshot.cn/) | 月之暗面出品，中文长文档阅读的口碑之选 |  |
 | [豆包](https://www.doubao.com/) | 字节出品的全能助手，免费额度大方 |  |
 | [腾讯元宝](https://yuanbao.tencent.com/) | 腾讯出品，微信生态集成顺手 |  |
@@ -48,9 +49,9 @@
 | 工具 | 简介 | 备注 |
 | --- | --- | --- |
 | [Codex](https://openai.com/codex/) | OpenAI 的编程智能体，Plus 用户可用 | 🔥 [✅ 实测教程](https://aisurf.cc/codex-install-guide/) |
-| [Claude Code](https://claude.com/product/claude-code) | Anthropic 的终端编程 Agent，工程化能力强 |  |
+| [Claude Code](https://claude.com/product/claude-code) | Anthropic 的终端编程 Agent，工程化能力强 | [✅ 实测教程](https://aisurf.cc/claude-code-install-guide/) |
 | [Trae](https://www.trae.cn/) | 字节出品的 AI IDE，国内网络对它最友好 | [✅ 实测教程](https://aisurf.cc/ai-tools-network-guide/) |
-| [Cursor](https://cursor.com/) | AI 代码编辑器，补全与对话式重构的标杆 | [✅ 实测教程](https://aisurf.cc/ai-tools-network-guide/) |
+| [Cursor](https://cursor.com/) | AI 代码编辑器，补全与对话式重构的标杆 | [✅ 实测教程](https://aisurf.cc/claude-code-install-guide/) |
 | [GitHub Copilot](https://github.com/features/copilot) | 老牌 AI 补全，VS Code / JetBrains 全覆盖 |  |
 | [Windsurf](https://windsurf.com/) | Codeium 出品，Agentic 流程做得顺滑 |  |
 | [CodeBuddy](https://codebuddy.ai/) | 腾讯出品的全栈开发 AI IDE |  |
@@ -201,12 +202,13 @@
 
 ## 关于本站
 
-数据来自 [AI 冲浪指南](https://aisurf.cc/)（aisurf.cc）——AI 工具实测与网络配置实践站。每篇教程都是自己跑通流程后才写的，标「实测」的工具（DeepSeek、ChatGPT、Codex、Trae、Cursor）在站内有完整的上手教程，包括国内访问的网络配置方案。
+数据来自 [AI 冲浪指南](https://aisurf.cc/)（aisurf.cc）——AI 工具实测与网络配置实践站。每篇教程都是自己跑通流程后才写的，标「实测」的工具（DeepSeek、ChatGPT、GPT-6 Astra、Gemini、Codex、Trae、Claude Code、Cursor）在站内有完整的上手教程，包括国内访问的网络配置方案。
 
 **数据文件**：[`data/ai-nav.yml`](data/ai-nav.yml)（本仓库的工具数据源，与站点页面同步更新）
 
 ## 更新日志
 
+- **2026-11-13** 新增 GPT-6 Astra（工具数 100 → 101）；Gemini、Claude Code 补挂实测教程；Cursor 实测教程更新为 Claude Code 安装配置教程（含 Cursor 联动）；实测教程 5 → 8 篇
 - **2026-11-10** 首次发布：100 个工具 / 11 个分类（其中 5 个有实测教程，8 个标记热门）
 
 ## License
