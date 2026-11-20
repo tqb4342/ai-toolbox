@@ -28,10 +28,10 @@
 | --- | --- | --- |
 | [DeepSeek](https://chat.deepseek.com/) | 幻方量化推出的开源大模型，便宜、能打、多模态已补齐 | 🔥 [✅ 实测教程](https://aisurf.cc/deepseek-vision-guide/) |
 | [ChatGPT](https://chatgpt.com/) | OpenAI 出品，生态最全的 AI 对话产品 | 🔥 [✅ 实测教程](https://aisurf.cc/chatgpt-vpn-guide/) |
-| [GPT-6 Astra](https://chatgpt.com/) | OpenAI 2026 旗舰模型，Computer Use 自主用电脑，Plus 用户可用 | 🔥 [✅ 实测教程](https://aisurf.cc/gpt-6-astra/) |
+| [GPT-6.2 Astra](https://chatgpt.com/) | OpenAI 最新旗舰，降价 20%，ARC-AGI-3 史上首个满分 | 🔥 [✅ 实测教程](https://aisurf.cc/gpt-62-astra-sol/) |
 | [Claude](https://claude.ai/) | Anthropic 出品，长文本与代码能力的第一梯队 | [✅ 实测教程](https://aisurf.cc/claude-opus-55-guide/) |
 | [Gemini](https://gemini.google.com/) | Google 出品，多模态与超长上下文见长 | [✅ 实测教程](https://aisurf.cc/gemini-4-argon/) |
-| [Kimi](https://kimi.moonshot.cn/) | 月之暗面出品，中文长文档阅读的口碑之选 |  |
+| [Kimi](https://kimi.moonshot.cn/) | 月之暗面出品，K3.1 Pro 智能指数全球第四，3D Make 草图变网页，免费用 | [✅ 实测教程](https://aisurf.cc/kimi-k31-pro-guide/) |
 | [豆包](https://www.doubao.com/) | 字节出品的全能助手，免费额度大方 |  |
 | [腾讯元宝](https://yuanbao.tencent.com/) | 腾讯出品，微信生态集成顺手 |  |
 | [智谱清言](https://chatglm.cn/) | 智谱 GLM 系列的官方对话产品 |  |
@@ -202,13 +202,14 @@
 
 ## 关于本站
 
-数据来自 [AI 冲浪指南](https://aisurf.cc/)（aisurf.cc）——AI 工具实测与网络配置实践站。每篇教程都是自己跑通流程后才写的，标「实测」的工具（DeepSeek、ChatGPT、GPT-6 Astra、Gemini、Claude、Codex、Trae、Claude Code、Cursor）在站内有完整的上手教程，包括国内访问的网络配置方案。
+数据来自 [AI 冲浪指南](https://aisurf.cc/)（aisurf.cc）——AI 工具实测与网络配置实践站。每篇教程都是自己跑通流程后才写的，标「实测」的工具（DeepSeek、ChatGPT、GPT-6.2 Astra、Kimi、Gemini、Claude、Codex、Trae、Claude Code、Cursor）在站内有完整的上手教程，包括国内访问的网络配置方案。
 
 **数据文件**：[`data/ai-nav.yml`](data/ai-nav.yml)（本仓库的工具数据源，与站点页面同步更新）
 
 ## 更新日志
 
 - **2026-11-14** Claude 补挂实测教程（Opus 5.5 使用指南：提需求、长任务、验收），实测教程 8 → 9 篇
+- **2026-11-20** GPT-6 Astra 更新为 GPT-6.2 Astra（降价 20%，ARC-AGI-3 史上首个满分，实测教程同步替换）；Kimi 挂实测教程（K3.1 Pro 智能指数全球第四，3D Make 草图变网页）；实测教程 9 → 10 篇
 - **2026-11-13** 新增 GPT-6 Astra（工具数 100 → 101）；Gemini、Claude Code 补挂实测教程；Cursor 实测教程更新为 Claude Code 安装配置教程（含 Cursor 联动）；实测教程 5 → 8 篇
 - **2026-11-10** 首次发布：100 个工具 / 11 个分类（其中 5 个有实测教程，8 个标记热门）
 

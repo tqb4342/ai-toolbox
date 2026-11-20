@@ -15,10 +15,10 @@ categories:
         desc: OpenAI 出品，生态最全的 AI 对话产品
         tested: /chatgpt-vpn-guide/
         hot: true
-      - name: GPT-6 Astra
+      - name: GPT-6.2 Astra
         url: https://chatgpt.com/
-        desc: OpenAI 2026 旗舰模型，Computer Use 自主用电脑，Plus 用户可用
-        tested: /gpt-6-astra/
+        desc: OpenAI 最新旗舰，降价 20%，ARC-AGI-3 史上首个满分
+        tested: /gpt-62-astra-sol/
         hot: true
       - name: Claude
         url: https://claude.ai/
@@ -30,7 +30,8 @@ categories:
         tested: /gemini-4-argon/
       - name: Kimi
         url: https://kimi.moonshot.cn/
-        desc: 月之暗面出品，中文长文档阅读的口碑之选
+        desc: 月之暗面出品，K3.1 Pro 智能指数全球第四，3D Make 草图变网页，免费用
+        tested: /kimi-k31-pro-guide/
       - name: 豆包
         url: https://www.doubao.com/
         desc: 字节出品的全能助手，免费额度大方
