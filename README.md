@@ -1,6 +1,6 @@
 # AI 工具箱 🧰
 
-> 精选 **101 个 AI 工具**，11 大分类：聊天助手、编程、图像、视频、写作、办公、搜索、设计、音频、开发平台与智能体。持续更新，只收录确认过官方网址与可用性的工具。
+> 精选 **102 个 AI 工具**，11 大分类：聊天助手、编程、图像、视频、写作、办公、搜索、设计、音频、开发平台与智能体。持续更新，只收录确认过官方网址与可用性的工具。
 
 **在线版** 👉 [aisurf.cc/ai-tools](https://aisurf.cc/ai-tools/) —— 支持即时搜索过滤、分类锚点跳转；标注「实测」的工具附带本站完整上手教程（从注册到跑通全流程）。
 
@@ -16,7 +16,7 @@
 - [AI 设计（8）](#ai-设计)
 - [AI 音频（4）](#ai-音频)
 - [AI 开发平台（11）](#ai-开发平台)
-- [AI 智能体（2）](#ai-智能体)
+- [AI 智能体（3）](#ai-智能体)
 
 ---
 
@@ -189,12 +189,13 @@
 | [火山方舟](https://www.volcengine.com/product/ark) | 字节的大模型推理与 API 平台 |  |
 | [Z.ai](https://chat.z.ai/) | 智谱面向全球的模型体验平台 |  |
 
-## AI 智能体（2）
+## AI 智能体（3）
 
 > 自主任务执行与协作
 
 | 工具 | 简介 | 备注 |
 | --- | --- | --- |
+| [小米 MiMo Desktop](https://mimo.xiaomimimo.com/desktop/invite) | 小米版 Codex，邀测免费：参考图自动调 Blender 建模，跨会话做 PPT | 🔥 [✅ 实测教程](https://aisurf.cc/xiaomi-mimo-desktop-guide/) |
 | [Manus](https://manus.im/) | 火出圈的通用 AI Agent，给目标就干活 |  |
 | [Flowith](https://flowith.io/) | 画布式多线程智能体 |  |
 
@@ -202,12 +203,13 @@
 
 ## 关于本站
 
-数据来自 [AI 冲浪指南](https://aisurf.cc/)（aisurf.cc）——AI 工具实测与网络配置实践站。每篇教程都是自己跑通流程后才写的，标「实测」的工具（DeepSeek、ChatGPT、GPT-6.2 Astra、Kimi、Gemini、Claude、Codex、Trae、Claude Code、Cursor）在站内有完整的上手教程，包括国内访问的网络配置方案。
+数据来自 [AI 冲浪指南](https://aisurf.cc/)（aisurf.cc）——AI 工具实测与网络配置实践站。每篇教程都是自己跑通流程后才写的，标「实测」的工具（DeepSeek、ChatGPT、GPT-6.2 Astra、Kimi、Gemini、Claude、Codex、Trae、Claude Code、Cursor、小米 MiMo Desktop）在站内有完整的上手教程，包括国内访问的网络配置方案。
 
 **数据文件**：[`data/ai-nav.yml`](data/ai-nav.yml)（本仓库的工具数据源，与站点页面同步更新）
 
 ## 更新日志
 
+- **2026-11-24** 新增小米 MiMo Desktop（工具数 101 → 102）：小米版 Codex，邀测免费，参考图自动调 Blender 建模、跨会话做 PPT，挂实测教程；实测教程 10 → 11 篇
 - **2026-11-14** Claude 补挂实测教程（Opus 5.5 使用指南：提需求、长任务、验收），实测教程 8 → 9 篇
 - **2026-11-20** GPT-6 Astra 更新为 GPT-6.2 Astra（降价 20%，ARC-AGI-3 史上首个满分，实测教程同步替换）；Kimi 挂实测教程（K3.1 Pro 智能指数全球第四，3D Make 草图变网页）；实测教程 9 → 10 篇
 - **2026-11-13** 新增 GPT-6 Astra（工具数 100 → 101）；Gemini、Claude Code 补挂实测教程；Cursor 实测教程更新为 Claude Code 安装配置教程（含 Cursor 联动）；实测教程 5 → 8 篇
